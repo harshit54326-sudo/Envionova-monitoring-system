@@ -1,0 +1,7 @@
+# Arduino / PlatformIO build output
+build/
+.pio/
+*.bin
+*.elf
+# local secrets (keep a clean config.h in the repo)
+secrets.h
